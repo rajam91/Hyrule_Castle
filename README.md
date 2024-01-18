@@ -1,2 +1,1 @@
-# Groupe de hammac_n 1012259
-
+Ce jeu est mon premier en typescript. Il contient de petites erreurs.
